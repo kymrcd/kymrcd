@@ -34,12 +34,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=merko" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kymrcd&show_icons=true&theme=merko" alt="GitHub stats" height="150"/>
 
 ---
 
 ### 🌸 Let’s Connect
 <p align="center">
   <a href="mailto:kylamercado.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
